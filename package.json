@@ -9,7 +9,7 @@
         "discord.js": "^11.5.1",
         "glob": "^7.1.6",
         "open-graph": "^0.2.4",
-        "open-graph-scraper": "^3.6.2",
+        "open-graph-scraper": "^6.3.2",
         "winston": "^3.2.1"
     }
 }
